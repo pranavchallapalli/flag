@@ -1,0 +1,16 @@
+.green{
+    background-color: green;
+    width: 1000px;
+    height: 600px;
+    position: relative;
+
+}
+.green>div{
+    background-color: red;
+    width:250px;
+    height: 250px;
+    border-radius: 50%;
+    position:absolute;
+    top:25%;
+    left:350px;
+}
